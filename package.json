@@ -1,0 +1,15 @@
+{
+  "name": "research-esg-website",
+  "version": "0.1.0",
+  "description": "Research website for 'The Cost-Effectiveness of ESG Integration in University Endowment Funds' (Aragon et al., JFE 2025)",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "astro": "^4.0.0"
+  },
+  "author": "Eric Lei",
+  "license": "MIT"
+}
